@@ -5,6 +5,6 @@ package com.surajgautam.tdd.addition;
  */
 public class Addition {
     public int add(int i, int i1) {
-        return 0;
+        return i + i1;
     }
 }
